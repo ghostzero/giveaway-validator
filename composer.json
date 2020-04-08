@@ -1,0 +1,14 @@
+{
+    "name": "ghostzero/giveaway-validator",
+    "description": "Public validator package to validate if the giveaway algorithm is legit.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "René Preuß",
+            "email": "rene@preuss.io"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^7.5"
+    }
+}
